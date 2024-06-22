@@ -1,1 +1,2 @@
 0622 edited
+I want to test the function of merge same files.
